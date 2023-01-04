@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-demos/static/css/main.0116b301.css",
+    "main.js": "/react-demos/static/js/main.42927c58.js",
+    "index.html": "/react-demos/index.html",
+    "main.0116b301.css.map": "/react-demos/static/css/main.0116b301.css.map",
+    "main.42927c58.js.map": "/react-demos/static/js/main.42927c58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0116b301.css",
+    "static/js/main.42927c58.js"
+  ]
+}
