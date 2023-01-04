@@ -31,7 +31,7 @@ function Counter() {
     <div class="container">
       <div class="counter-container">
         <div class="dec-box">
-          <button onClick = {handleDecrement} disabled = {state.count <= 0}>-</button>
+          <button onClick = {handleDecrement} disabled = {state.count-state.step <= 0}>-</button>
         </div>
         <div class="counter-box">
           <span>{state.count}</span>
